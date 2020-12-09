@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_minoxidil">
+
+    <fragment
+        android:id="@+id/nav_minoxidil"
+        android:name="com.example.forhairandbeard.ui.minoxidil.MinoxidilFragment"
+        android:label="@string/menu_minoxidil"
+        tools:layout="@layout/fragment_minoxidil"/>
+
+    <fragment
+        android:id="@+id/nav_biotin"
+        android:name="com.example.forhairandbeard.ui.biotin.BiotinFragment"
+        android:label="@string/menu_biotin"
+        tools:layout="@layout/fragment_biotin" />
+
+    <fragment
+        android:id="@+id/nav_contact"
+        android:name="com.example.forhairandbeard.ui.contact.ContactFragment"
+        android:label="@string/menu_contactanos"
+        tools:layout="@layout/fragment_contact" />
+
+    <fragment
+        android:id="@+id/nav_store"
+        android:name="com.example.forhairandbeard.ui.store.StoreFragment"
+        android:label="@string/menu_tienda"
+        tools:layout="@layout/fragment_store"/>
+
+    <fragment
+        android:id="@+id/nav_dev"
+        android:name="com.example.forhairandbeard.ui.developer.DeveloperFragment"
+        android:label="@string/menu_desarrollador"
+        tools:layout="@layout/fragment_developer"/>
+
+</navigation>

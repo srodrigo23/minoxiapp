@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">For Hair And Beard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_productos">Productos</string>
+    <string name="menu_minoxidil">Minoxidil</string>
+    <string name="menu_biotin">Biotin</string>
+
+    <string name="menu_nosotros">Nosotros</string>
+    <string name="menu_contactanos">Contáctanos</string>
+    <string name="menu_tienda">Tienda</string>
+
+    <string name="menu_aplicacion">Aplicación</string>
+    <string name="menu_desarrollador">Desarrollador</string>
+    <string name="salir">Salir de la app</string>
+</resources>

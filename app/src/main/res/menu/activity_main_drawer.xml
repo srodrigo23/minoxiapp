@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="@string/menu_productos">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_minoxidil"
+                    android:icon="@drawable/ic_minoxidil"
+                    android:title="@string/menu_minoxidil" />
+                <item
+                    android:id="@+id/nav_biotin"
+                    android:icon="@drawable/ic_biotin"
+                    android:title="@string/menu_biotin" />
+
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/menu_nosotros">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_contact"
+                    android:icon="@drawable/ic_contacts"
+                    android:title="@string/menu_contactanos" />
+                <item
+                    android:id="@+id/nav_store"
+                    android:icon="@drawable/ic_store"
+                    android:title="@string/menu_tienda"/>
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_aplicacion">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_dev"
+                    android:icon="@drawable/ic_developer"
+                    android:title="@string/menu_desarrollador"/>
+<!--                <item-->
+<!--                    android:id="@+id/nav_exit"-->
+<!--                    android:icon="@drawable/ic_logout"-->
+<!--                    android:title="@string/menu_salir"/>-->
+            </group>
+        </menu>
+    </item>
+</menu>
