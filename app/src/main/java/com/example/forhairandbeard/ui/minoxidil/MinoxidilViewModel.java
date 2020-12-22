@@ -10,7 +10,7 @@ public class MinoxidilViewModel extends ViewModel {
 
     public MinoxidilViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is home fragment");
+//        mText.setValue("This is home fragment");
     }
 
     public LiveData<String> getText() {

@@ -18,4 +18,21 @@
     <string name="menu_aplicacion">Aplicación</string>
     <string name="menu_desarrollador">Desarrollador</string>
     <string name="salir">Salir de la app</string>
+
+    <string name="que_es">Qué és?</string>
+    <string name="resultados">Resultados</string>
+    <string name="consejos">Consejos</string>
+    <string name="preguntas_frecuentes">Preguntas\nfrecuentes</string>
+
+    <string name="minoxidil_pharagraph">
+        El Minoxidil es un agente químico que inicialmente se desarrolló con el fin de tratar y reducir la
+        presión alta de pacientes, es decir, un vasodilatador. Antes de su planeado lanzamiento al mercado,
+        mientras se estaban realizando pruebas en pacientes(de manera oral por medio de pastillas), se dieron cuenta que
+        aunque lograba el objetivo de reducir la presión arterial alta, tenía un efecto secundario no deseado:
+        la aparición de bello en diversas partes del cuerpo donde antes no había.
+
+        De esta manera este compuesto promueve activamente el crecimiento del cabello al desahacerse de los cabellos
+        viejos y remplazarlos por otros nuevos, actua como un vaso-dilatador de los folículos pilosos
+        estimulandolos para su recrecimiento tanto en la barba como en el cabello.
+                </string>
 </resources>
