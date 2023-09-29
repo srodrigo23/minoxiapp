@@ -5,6 +5,6 @@
         android:id="@+id/exit"
         android:orderInCategory="300"
         android:icon="@drawable/ic_logout"
-        android:title="@string/salir"
+        android:title="@string/menu_salir"
         app:showAsAction="never" />
 </menu>

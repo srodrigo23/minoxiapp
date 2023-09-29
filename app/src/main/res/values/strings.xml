@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">For Hair And Beard</string>
+    <string name="app_name">MinoxiApp</string>
+    <string name="title_menu">FOR \n HAIR &amp; BEARD</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -17,7 +18,8 @@
 
     <string name="menu_aplicacion">Aplicación</string>
     <string name="menu_desarrollador">Desarrollador</string>
-    <string name="salir">Salir de la app</string>
+    <string name="menu_salir">Salir de la app</string>
+    <string name="menu_configuracion">Configuración</string>
 
     <string name="que_es">Qué és?</string>
     <string name="resultados">Resultados</string>
